@@ -19,7 +19,7 @@
 - Sass temelleri
 - Bootstrap V5 temelleri
 
-## Sık Kullanılan Markdown İşaretlemeleri 
+### Sık Kullanılan Markdown İşaretlemeleri 
 - [Doküman](https://commonmark.org/help/)
 ```
 # Başlık 1
@@ -30,4 +30,11 @@
 ***boldItalic***
 
 ```
- 
+
+## Ödev 1 
+- Aşağıda bulunan görsel çıktısı oluşturulacaktır.   
+- Başlık etiketi için ihtiyaç olan tüm alanlarda h1 kullanabilirsiniz. 
+- Kodlamayı gerçekleştirirken html şemantik yapısına uygun bir şekilde geliştirme yapmanız beklenmektedir. Örneğin bir menü oluşturulacaksa bu nav etiketi içerisinde olmalı.
+
+### Ödev 1 Ekran Görüntüsü
+ - ![Odev 1](/odev1.png)
